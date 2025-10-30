@@ -11,6 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "merge2": "^1.4.1",
     "to-regex-range": "^5.0.1",
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "^1.2.11",
