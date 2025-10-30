@@ -11,6 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "run-parallel": "^1.2.0",
     "merge2": "^1.4.1",
     "to-regex-range": "^5.0.1",
     "@hookform/resolvers": "^3.10.0",
